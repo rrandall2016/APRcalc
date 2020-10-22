@@ -1,0 +1,2 @@
+# APRcalc
+Calculates Monthly APR 
